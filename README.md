@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://res.cloudinary.com/dqc6uymqz/image/upload/v1675283961/Screenshot_2023-02-01_163523_lljsgh.png">
 
+### `Deploy`
+
+[click here 🌎](https://dh-porfolio.netlify.app/)
 
 ### `npm start`
 
