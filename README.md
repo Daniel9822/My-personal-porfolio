@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Deploy`
 
-[click here 🌎](https://dh-porfolio.netlify.app/)
+<a href="https://dh-porfolio.netlify.app/" target="_blank">Click here 🌎</a>
 
 ### `npm start`
 
