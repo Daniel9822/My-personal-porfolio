@@ -80,7 +80,7 @@ export const NavBar = () => {
                                 }
                                 onClick={() => proyectScroll("projects")}
                             >
-                                Projectos
+                                Proyectos
                             </Nav.Link>
                         </Nav>
                         <span className="navbar-text">
