@@ -42,7 +42,8 @@ export const Skills = () => {
                 <div className="row">
                     <div className="col-12">
                         <div className="skill-bx wow zoomIn">
-                            <h2 style={{paddingBottom:"50px"}}>Habilidades</h2>
+                            <h2>Habilidades</h2>
+                            <p>Estoy super emocionado aprendiendo nuevas tecnologias como<br></br> MongoDB y Socket.io</p>
                         
                             <Carousel
                                 responsive={responsive}
